@@ -1,0 +1,41 @@
+{
+  "main-title": "My events",
+  "edit-title": "Edit event",
+  "main-add-event-btn": "Add new event",
+
+  "btn-more": "More info",
+"btn-edit": "Edit",
+"btn-delete": "Delete event",
+"btn-back": "Back",
+"btn-form": "Add event",
+"form-main-title": "Create new event",
+  "form-title": "Title",
+  "form-des": "Description",
+  "form-date": "Select date",
+  "form-time": "Select time",
+  "form-loc": "Location",
+  "form-categ": "Category",
+  "form-select-categ": "Select Category",
+  "form-pic": "Add picture",
+  "form-priority": "Priority",
+  "form-select-prior":"Select Priority",
+  "time": "at",
+
+
+  "category": "Category",
+  "category-art": "Art",
+  "category-music": "Music",
+  "category-business": "Business",
+  "category-conference": "Conference",
+  "category-workshop": "Workshop",
+  "category-party": "Party",
+  "category-sport": "Sport",
+
+  "sort-by": "Sort by",
+
+   "under-construction": "This page is currently Under Construction. Please check back soon.",
+   "search": "Enter your search",
+   "search-warning": "No results for your request. Please try again",
+
+"error": "Something went wrong. Please try again"
+}
