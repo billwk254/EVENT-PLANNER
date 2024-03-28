@@ -18,7 +18,7 @@ Even more importantly, the event page, which displays detailed information about
 
 **2. Check npm version:**
 * `npm -v`
-  - Should print something like `6.4.1`
+  - Should print something like `8.11.0`
 
 **3. Install Dependencies**
 * Navigate to the project folder and run: `npm install`
