@@ -10,8 +10,8 @@ Even more importantly, the event page, which displays detailed information about
 
 ## Tech Stack
 * <b>Client :</b> React
-* <b>Server :</b> JSON Server
-* <b>Deployment :</b> Netlify, Render
+* <b>Server :</b> Node
+* <b>Database :</b> mySql
 
 ## How To Run:
 **1. Open terminal (Mac OS) or cmd (Windows)**  
