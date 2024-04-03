@@ -38,3 +38,5 @@ Even more importantly, the event page, which displays detailed information about
 **4. Run Project**
 * `npm start`
  <br>
+
+App demo: https://www.youtube.com/watch?v=WcmF4hMuYFE&t=30s
