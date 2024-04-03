@@ -43,7 +43,7 @@ Individuals can create profiles to manage their RSVPs and organize their own eve
 * Navigate to the project folder and run: `npm install`
 
 **4. Run Project**
-* `npm start`
+* `node server.js`
  <br>
 
 ## License
