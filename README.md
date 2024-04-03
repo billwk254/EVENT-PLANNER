@@ -25,6 +25,13 @@ Even more importantly, the event page, which displays detailed information about
 [![Dotenv](https://img.shields.io/badge/Dotenv-000?style=for-the-badge&logo=javascript&logoColor=white)](https://www.npmjs.com/package/dotenv)
 [![Bcrypt](https://img.shields.io/badge/Bcrypt-338?style=for-the-badge&logo=javascript&logoColor=white)](https://www.npmjs.com/package/bcrypt)
 
+## Usage
+This application facilitates community engagement by enabling users to explore gatherings organized by others. Once logged in, users can confirm their attendance (RSVP) for an event, signaling their intention to join. They retain the flexibility to adjust their RSVP status as needed.
+
+Furthermore, logged-in users possess the capability to initiate events through a submission form, selecting venues from the app's database and exploring available vendors for assistance. These events are then displayed on the Events page. Users can edit event details such as name, location, description, or time directly from the Events page. They also have access to the RSVP list, allowing them to monitor capacity. Deleting events is an option, removing them from the database.
+
+Individuals can create profiles to manage their RSVPs and organize their own events effectively. A personalized dashboard showcases events they're hosting or planning to attend, providing organizational assistance.
+
 ## How To Run:
 **1. Open terminal (Mac OS) or cmd (Windows)**  
 
@@ -38,5 +45,8 @@ Even more importantly, the event page, which displays detailed information about
 **4. Run Project**
 * `npm start`
  <br>
+
+## License
+This application is covered by the [MIT](https://opensource.org/licenses/MIT) license.
 
 App demo: https://www.youtube.com/watch?v=WcmF4hMuYFE&t=30s
